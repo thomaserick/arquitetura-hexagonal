@@ -6,4 +6,4 @@ A ideia da Arquitetura Hexagonal é colocar entradas e saídas nas bordas de nos
 
 ![Hexagonal](https://github.com/thomaserick/arquitetura-hexagonal/blob/main/arqhexagonal/Arquitetura%20Hexagonal.png)
 
-Creditos: https://github.com/DaniloCaneschi/arquitetura-hexagonal
+Creditos: Curso Danilo Caneschi
